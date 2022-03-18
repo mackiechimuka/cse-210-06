@@ -6,7 +6,7 @@ CSE Team 01
 ---
 “Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.”
 ― Arthur C. Clarke
----
+
 Instructor: Duane Richards
 Developers:
 •	McNeill Chimuka Chimuka
@@ -14,7 +14,6 @@ Developers:
 •	Emediong Henry Edet
 •	Mary Ann Overson
 •	Miguel Secades Garcia
----
 
 ## Overview
 Aliens are trying to invade the planet and you must use your tank to shoot the aliens and clear the skies before they reach the planet.  
