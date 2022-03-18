@@ -40,8 +40,8 @@ root                    (project root folder)
 
 ## Authors
 ---
-•	McNeill Chimuka Chimuka
-•	Miguel Angel Condori
-•	Emediong Henry Edet
-•	Mary Ann Overson
-•	Miguel Secades Garcia
+-	McNeill Chimuka Chimuka
+-	Miguel Angel Condori
+-	Emediong Henry Edet
+-	Mary Ann Overson
+-	Miguel Secades Garcia
