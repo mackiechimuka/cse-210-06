@@ -18,6 +18,7 @@ Developers:
 ## Overview
 Aliens are trying to invade the planet and you must use your tank to shoot the aliens and clear the skies before they reach the planet.  
 # Rules
+---
 There can be 1 or 2 players.
 A player has 3 lives.
 If 2 players are selected, each will take alternating turns and each turn ends when a life is gone.  
